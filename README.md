@@ -26,8 +26,8 @@ Have worked in:
 Version Control and Development tools used:
 <p>
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="48" height="48" src="https://img.icons8.com/sf-regular-filled/48/github.png" alt="github"/>
-<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/000000/visual-studio.png" alt="visual-studio"/>
+<img width="48" height="48" src="https://img.icons8.com/ios/48/github--v1.png" alt="github--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
 <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
 </p>
