@@ -4,7 +4,7 @@ Have worked in:
 <p> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
-<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/000000/go-logo.png" alt="go-logo"/>
+<img width="64" height="64" src="https://logowik.com/content/uploads/images/golang-go7318.jpg"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
