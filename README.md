@@ -18,7 +18,8 @@ Have worked in:
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
 </p>
-**Version Control and Development tools used: **
+
+Version Control and Development tools used:
 <p>
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" src="https://img.icons8.com/sf-regular-filled/48/github.png" alt="github"/>
