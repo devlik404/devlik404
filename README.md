@@ -1,6 +1,6 @@
 # Hi 👋 I'm Malik Fajar
 ## A passionate fullstack developer from Indonesia
-**Have worked in:**
+Have worked in:
 <p> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
