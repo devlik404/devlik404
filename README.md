@@ -31,7 +31,7 @@ Version Control and Development tools used:
 <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
 </p>
-**Operating System familiar with: **
+Operating System familiar with:
 <p>
 <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
