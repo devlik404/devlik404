@@ -29,7 +29,7 @@ Version Control and Development tools used:
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
 </p>
 **Operating System familiar with: **
 <p>
