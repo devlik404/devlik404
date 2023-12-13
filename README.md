@@ -4,7 +4,7 @@
 
 **Have worked in:**
 <p> 
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo-angular&logoColor=white&style=flat" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo-react&logoColor=white&style=flat" /> 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo-javascript&logoColor=white&style=flat"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/Node.js-339933?logo-node.js&logoColor=white&style-flat" /> 
