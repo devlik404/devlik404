@@ -5,24 +5,27 @@
 **Have worked in:**
 <p> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo-react&logoColor=white&style=flat" /> 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo-javascript&logoColor=white&style=flat"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/Node.js-339933?logo-node.js&logoColor=white&style-flat" /> 
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo-html5&logoColor=white&style=flat" /> 
-<img src="https://helbadge/CSS-1572862logo-css3&logoColor=whitesstyle-flat" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo postgresql&logoColor=white&style-flat"/>
-<img <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo-mongodb&logoColor=white&style=flat" /> 
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+<img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/chakra-ui.png" alt="chakra-ui"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
 </p>
 **Version Control and Development tools used: **
 <p>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo-git&logoColor=white&style=flat" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logomgithub&logoColor=white&style-flat" /> 
-<img alt="Azure Devops" src="https://img.shields.io/badge/Azure DevOps-0078D7?logo-azure+devops&logoColor=white&style-flat" />
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo-visual+studio&logoColor=white&style=flat" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo-visual+studio+code&logoColor=white&style=flat" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="48" height="48" src="https://img.icons8.com/sf-regular-filled/48/github.png" alt="github"/>
+<img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/000000/visual-studio.png" alt="visual-studio"/>
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
 </p>
 **Operating System familiar with: **
 <p>
-<img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo-macos&logoColor=white&style=flat" /> <img alt="Windows" src="https:// /img.shields.io/badge/Windows-0078D6?logo-windows&logoColor=white&style-flat" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
 </p>
 />
