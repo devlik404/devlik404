@@ -1,7 +1,5 @@
 # Hi 👋 I'm Malik Fajar
 ## A passionate fullstack developer from Indonesia
-<img src="https://u7.uidownload.com/vector/600/105/vector-programmer-vector-clip-art-eps-ai.jpg"/>
-
 **Have worked in:**
 <p> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
