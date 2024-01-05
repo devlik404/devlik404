@@ -10,12 +10,14 @@ Have worked in:
 <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
 <img width="48" height="48" src="https://img.icons8.com/nolan/48/react-native.png" alt="react-native"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/chakra-ui.png" alt="chakra-ui"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
 <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
