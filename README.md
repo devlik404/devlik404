@@ -9,6 +9,7 @@ Have worked in:
 <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
