@@ -8,6 +8,7 @@ Have worked in:
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/>
+<img width="48" height="48" src=" https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="golang"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
@@ -23,6 +24,7 @@ Have worked in:
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
+ 
 </p>
 
 Version Control and Development tools used:
